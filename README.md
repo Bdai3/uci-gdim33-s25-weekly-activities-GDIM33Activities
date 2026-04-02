@@ -9,7 +9,8 @@
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+
+![BreakDown](https://github.com/user-attachments/assets/ec194a32-123a-4e73-a5bd-2de8e1638c4d)
 
 
 ## W2
