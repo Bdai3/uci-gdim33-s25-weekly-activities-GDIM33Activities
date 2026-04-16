@@ -17,3 +17,15 @@
 Write your W2 Devlog here.
 
 Continue adding additional headers below this one for future weeks and future activities.
+
+## W3
+### Activity 1
+<img width="1996" height="1214" alt="image" src="https://github.com/user-attachments/assets/0cf1918f-402c-4e2d-9766-dce1fcc71be8" />
+
+
+### Activity 2
+
+1. So that its eaasier to reference and remember that the scene variable exists.
+2. The debug on the transtion nodes helpped me see that the transistion went through.
+3. No, because my game uses the cursor to aim in the game. At no point will you not need your cursor.
+4. Yes, players and enemies will have an alive state and dead state and the transition will happen when health drops to 0. 
