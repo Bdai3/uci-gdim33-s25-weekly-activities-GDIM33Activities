@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: DialogueLineW4
+  m_EditorClassIdentifier: 
+  Line: HEY HEY!
+  ReplyOptions:
+  - line: yes
+    nextNode: {fileID: 11400000, guid: f7889c4989ec32f43b5ad273b64bc069, type: 2}
+  - line: Hell yeah
+    nextNode: {fileID: 11400000, guid: 0533835e24b8f1040a4b25b4df38bc9a, type: 2}
+  - line: Mimi
+    nextNode: {fileID: 11400000, guid: 1a721a37b3ed79d40b053d6f39ab3dce, type: 2}
+  - line: AHHH
+    nextNode: {fileID: 11400000, guid: b5b6d4d3e7da72f4e9115ec7e8d01b02, type: 2}
+  GOD: {fileID: 9044807629246722137, guid: 8ff195fb5baf8e84d920260de59761de, type: 3}
