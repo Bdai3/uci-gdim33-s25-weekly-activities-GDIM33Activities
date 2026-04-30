@@ -65,5 +65,5 @@ EXTRA CREDIT
     4. Add hearts to the UI where 2 are hidden but then revealed if player has this upgrade
 
 ### Activity 2
-1. I added a perk/upgrade that perminatly increases the players health when bought.
+1. I added a perk/upgrade that perminatly increases the players health when bought. I was also trying to fix my Nav Mesh.
 
