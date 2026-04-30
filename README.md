@@ -51,3 +51,17 @@ Notes
 EXTRA CREDIT
 <img width="1449" height="804" alt="image" src="https://github.com/user-attachments/assets/4491eb0b-8c92-4ee6-971a-6056d50a5c7c" />
 
+## W5
+### Activity 1
+1. Create a new statue object that runs a method on the player
+    1. Add object sprite into the scene
+    2. Add 2D collider on the object 
+    3. Create visual script that gets the players current position and check it’s distance from the statue
+    4. Set up script to check if player is within the buy range of the statue
+2. Player interacts with the statue to increase stats 
+    1. If the player is within the range and Press E the method of boosting the players health will run
+    2. Players need to have $2500 in order to purchase
+    3. Script will get the player object's health variable and set it to 5. 
+    4. Add hearts to the UI where 2 are hidden but then revealed if player has this upgrade
+
+
