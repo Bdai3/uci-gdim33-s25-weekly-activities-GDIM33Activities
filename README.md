@@ -64,4 +64,6 @@ EXTRA CREDIT
     3. Script will get the player object's health variable and set it to 5. 
     4. Add hearts to the UI where 2 are hidden but then revealed if player has this upgrade
 
+### Activity 2
+1. I added a perk/upgrade that perminatly increases the players health when bought.
 
