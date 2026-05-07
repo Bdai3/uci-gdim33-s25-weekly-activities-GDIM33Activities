@@ -67,3 +67,24 @@ EXTRA CREDIT
 ### Activity 2
 1. I added a perk/upgrade that perminatly increases the players health when bought. I was also trying to fix my Nav Mesh.
 
+## W6
+### Activity 1
+1. Goal: Testing if the round system is functioning as intended.
+    1. Can't tell when out of ammo
+    2. Dpn't have round count UI
+    3. Lower buy range for perk
+    4. Feedback on gun
+    5. Wish they had mouse
+    6. Good Game!
+    7. Add player taking damage frame
+   
+### Activity 2
+1. Multiply makes it darker because it when you multiply it, the RGB values decrease.
+2. It'll become more translucent since we're multiplying by values less than one which will cause the values to decrease.
+3. The vertices on the mesh holds the data that maps the data on to the UV map. 
+4. Yes, its really interesting as an artist! 
+
+
+
+
+
