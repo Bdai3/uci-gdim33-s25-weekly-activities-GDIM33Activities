@@ -94,5 +94,8 @@ EXTRA CREDIT
 6. The lighting by default is flipped which means the lighting appears on the wrong side.
 7. Instead of multplying the values of the background we add it to make it more transparent than darker, if we multiply it the valuees of RGB is 0-1 which will decrease the value which will make it darker.   
 
-
-
+## W8
+### Activity 1
+1. Something I added since milstone 2 was the gun has a muzzle flash when the player shoots the gun.
+2. [Itch Build](https://senseiwuhooo.itch.io/dead-calling-milstone-3)
+3. 
