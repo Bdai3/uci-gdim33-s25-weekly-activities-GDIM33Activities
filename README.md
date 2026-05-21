@@ -98,4 +98,4 @@ EXTRA CREDIT
 ### Activity 1
 1. Something I added since milstone 2 was the gun has a muzzle flash when the player shoots the gun.
 2. [Itch Build](https://senseiwuhooo.itch.io/dead-calling-milstone-3)
-3. 
+3. My goal for this playtest is to see anything that I should add and things work.
