@@ -113,7 +113,7 @@ Notes
 10. VFX stays sometimes after firing
 11. Add hit indication on enemies
 
-### Activity 2
+### Activity 2B Questions
 1. Time increaases forevery but since the fraction node only turns the decimals into fractions, it hits 0 and resets. This is why it creates a blink effect.
 2. We want to make the default black so that when we render the shine which is white we can see it. In unity white is desfault and if we did white on white it wouldn't read well.
 3. Its reading as a material and not a sprite renderer which is why it doesn't show on anything else. Also it's only on one object.
