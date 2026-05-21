@@ -99,3 +99,16 @@ EXTRA CREDIT
 1. Something I added since milstone 2 was the gun has a muzzle flash when the player shoots the gun.
 2. [Itch Build](https://senseiwuhooo.itch.io/dead-calling-milstone-3)
 3. My goal for this playtest is to see anything that I should add and things work.
+
+Notes
+1. Round color to bright
+2. Fix buying perk after taking damage
+3. Shocked spent money on ammo
+4. Cost pop up ui
+5. Running into wall its a bit jittery
+6. Gun Dsync when you walk into the wall (use transfform position intead of rigid body)
+7. Bullet size bit to small or color is hard to see
+8. Enemies dont collide with perk but player does 
+9. Fench cant go through
+10. VFX stays sometimes after firing
+11. Add hit indication on enemies
