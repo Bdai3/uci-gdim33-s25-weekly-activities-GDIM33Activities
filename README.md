@@ -118,3 +118,16 @@ Notes
 2. We want to make the default black so that when we render the shine which is white we can see it. In unity white is desfault and if we did white on white it wouldn't read well.
 3. Its reading as a material and not a sprite renderer which is why it doesn't show on anything else. Also it's only on one object.
 4. We multiply into the fraction because we want the animation to play at a certain interval and by multiplying the time by 1 it keeps it consistant.
+
+## W9
+### Activity 1
+1. My team went over, Subnautica.
+2. One feature we wanna focus on is the color of the water.
+   - We believe its a postprocessing effect that covers the full screen.
+   - It adds a color filter over the postprocessing effect when the player enters a new area.
+   - This effect is triggered based off player position (depth which effects ) and biome type. 
+3. Exit water transition effect.
+   - This is also a full screen effect.
+   - It uses an animated texture to play an animation when the player passes through the water.
+   - This texture plays when the player passes the line of water and land (indicating the player is moving out of the water). 
+
