@@ -131,3 +131,6 @@ Notes
    - It uses an animated texture to play an animation when the player passes through the water.
    - This texture plays when the player passes the line of water and land (indicating the player is moving out of the water). 
 
+### Activity 2
+<img width="2456" height="1507" alt="image" src="https://github.com/user-attachments/assets/6ccc2a0d-7807-4ace-b9b1-100592a868fb" />
+1. I fixed up my ammo shine graph. Before this graph use to run but only start half way and end the shine effect at the bottom left. The issue was that the texture I put for the shine effect was set to clamp rather than repeat which causes the effect to end early and start betweeen 0-1. After fixing that the animation was to small for my sprite so I had to multiply the UV to cover my whole ammo crate sprite.
