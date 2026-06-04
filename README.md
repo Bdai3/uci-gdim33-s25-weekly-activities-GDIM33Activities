@@ -146,4 +146,10 @@ Notes
 2. Limit Fire Rate
 
 ### Activity 2
-1. 
+1. First we would identify the game's mechanics/loop and focus on CORE mechanics needed
+2. Then Identify the different primary systems that can actualize the mechanics and effect the game play
+3. Identify what sort of variables / components can be used to support the mechanical function and systems
+4. Next visualize/note them for retention and development references using a break down chart 
+5. identify how these variables / components will be communicated between systems through connecting the different parts within the breakdown chart
+6. Planning well, will impact how much you can get done within a project. A well planned project will allow you to complete more with less difficulty, compared to poor planning which can make mechanics to sound easier than they are to implement. Also planning well will help developers see generally the workload and different interactions that will happen within your game. From viewing this, we can see the scope of the game and can cut content depending on the time available.
+7. After planning, before implementation, breaking down each tasks using a "task break down" will prove helpful and speed up the process. This is because you're making a course of action where you head into engine knowing generally what to do and don't waste time on what to do since you thought through it once.
