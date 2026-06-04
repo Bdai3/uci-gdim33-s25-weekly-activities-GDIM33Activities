@@ -140,3 +140,10 @@ Notes
 1. Since milestone 3, I've added audio (BGM, Zombie damage sounds, reload sound, and zombie death sounds) and multiple spawn points/locations for the zombie.
 2. https://senseiwuhooo.itch.io/dead-calling-final-submission
 3. My Goals is to find any game breaking bugs and to see if theres anything to add given the remmaining time.
+
+Notes
+1. Kill enemy instantly instead 
+2. Limit Fire Rate
+
+### Activity 2
+1. 
