@@ -153,3 +153,6 @@ Notes
 5. identify how these variables / components will be communicated between systems through connecting the different parts within the breakdown chart
 6. Planning well, will impact how much you can get done within a project. A well planned project will allow you to complete more with less difficulty, compared to poor planning which can make mechanics to sound easier than they are to implement. Also planning well will help developers see generally the workload and different interactions that will happen within your game. From viewing this, we can see the scope of the game and can cut content depending on the time available.
 7. After planning, before implementation, breaking down each tasks using a "task break down" will prove helpful and speed up the process. This is because you're making a course of action where you head into engine knowing generally what to do and don't waste time on what to do since you thought through it once.
+
+### Activity 3
+1. I added sounds to when the player shoots the gun, added a fire rate restriction, and fixed up the zombie death animation. 
