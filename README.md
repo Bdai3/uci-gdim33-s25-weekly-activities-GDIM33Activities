@@ -134,3 +134,9 @@ Notes
 ### Activity 2
 <img width="2456" height="1507" alt="image" src="https://github.com/user-attachments/assets/6ccc2a0d-7807-4ace-b9b1-100592a868fb" />
 1. I fixed up my ammo shine graph. Before this graph use to run but only start half way and end the shine effect at the bottom left. The issue was that the texture I put for the shine effect was set to clamp rather than repeat which causes the effect to end early and start betweeen 0-1. After fixing that the animation was to small for my sprite so I had to multiply the UV to cover my whole ammo crate sprite.
+
+## W10
+### Activity 1
+1. Since milestone 3, I've added audio (BGM, Zombie damage sounds, reload sound, and zombie death sounds) and multiple spawn points/locations for the zombie.
+2. https://senseiwuhooo.itch.io/dead-calling-final-submission
+3. My Goals is to find any game breaking bugs and to see if theres anything to add given the remmaining time.
